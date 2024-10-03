@@ -15,22 +15,4 @@
     </bookmark>
   </folder>
 </folder>
-<folder id="5">
-  <title>Window 0</title>
-  <bookmark href="chrome://newtab/" id="6">
-    <title>Nouvel onglet</title>
-  </bookmark>
-  <bookmark href="https://docs.google.com/spreadsheets/d/1rAcOuYZDlljIpiH8lg_Dl35UNVm8Xl2mVy0LQ6v_ang/edit?pli=1&amp;gid=0#gid=0" id="7">
-    <title>Certik audit issue table - Google Sheets</title>
-  </bookmark>
-  <bookmark href="chrome://extensions/" id="8">
-    <title>Extensions</title>
-  </bookmark>
-  <bookmark href="https://chromewebstore.google.com/detail/floccus-bookmarks-sync/fnaicdffflnofjppbagibeoednhnbjhg" id="9">
-    <title>floccus bookmarks sync - Chrome Web Store</title>
-  </bookmark>
-  <bookmark href="chrome://newtab/" id="10">
-    <title>Nouvel onglet</title>
-  </bookmark>
-</folder>
 </xbel>
