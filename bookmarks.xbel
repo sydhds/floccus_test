@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :4: for Floccus bookmark sync browser extension -->
+<!--- highestId :10: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>admin</title>
@@ -10,9 +10,27 @@
     <bookmark href="https://www.bank1.com/" id="3">
       <title>Bank 1 - Best bank in the world</title>
     </bookmark>
-    <bookmark href="https://www.bank2.com" id="4">
+    <bookmark href="https://www.bank2.com/" id="4">
       <title>Bank 2 because 2 gt 1 !#€</title>
     </bookmark>
   </folder>
+</folder>
+<folder id="5">
+  <title>Window 0</title>
+  <bookmark href="chrome://newtab/" id="6">
+    <title>Nouvel onglet</title>
+  </bookmark>
+  <bookmark href="https://docs.google.com/spreadsheets/d/1rAcOuYZDlljIpiH8lg_Dl35UNVm8Xl2mVy0LQ6v_ang/edit?pli=1&amp;gid=0#gid=0" id="7">
+    <title>Certik audit issue table - Google Sheets</title>
+  </bookmark>
+  <bookmark href="chrome://extensions/" id="8">
+    <title>Extensions</title>
+  </bookmark>
+  <bookmark href="https://chromewebstore.google.com/detail/floccus-bookmarks-sync/fnaicdffflnofjppbagibeoednhnbjhg" id="9">
+    <title>floccus bookmarks sync - Chrome Web Store</title>
+  </bookmark>
+  <bookmark href="chrome://newtab/" id="10">
+    <title>Nouvel onglet</title>
+  </bookmark>
 </folder>
 </xbel>
